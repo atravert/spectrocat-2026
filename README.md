@@ -5,7 +5,7 @@ A notebooks demonstrating spectra processing and analysis using SpectroChemPy.
 
 Click on the badge below to open the notebook directly in Colab:
 
-[![Open the notebook without output in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/MES-demo-operando8/blob/main/MES_demo-operando8_cleared.ipynb)
+[![Open the notebook without output in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/spectrocat-2026/blob/main/test.ipynb)
 
 ## history
 
