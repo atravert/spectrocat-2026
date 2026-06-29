@@ -5,9 +5,9 @@ A notebooks demonstrating spectra processing and analysis using SpectroChemPy.
 
 Click on the badges below to open the notebooks directly in Colab:
 
-[![UV Vis dataset analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/spectrocat-2026/blob/main/01_uv_vis_analysis.ipynb)
+- UV Vis dataset analysis:  [![UV Vis dataset analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/spectrocat-2026/blob/main/01_uv_vis_analysis.ipynb)
 
-[![IR dataset processing and analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/spectrocat-2026/blob/main/02_ir_processing_analysis.ipynb)
+- IR dataset processing and analysis [![IR dataset processing and analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atravert/spectrocat-2026/blob/main/02_ir_processing_analysis.ipynb)
 
 ## history
 
