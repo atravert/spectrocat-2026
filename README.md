@@ -13,4 +13,4 @@ Click on the badges below to open the notebooks directly in Colab:
 
 - 20/06/2026: initial release
 - 29/06/2026: notebooks added 
-
+- 30/06/2026: added curve fitting section in the IR notebook
